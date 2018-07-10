@@ -1,7 +1,7 @@
 require_relative ('model/bounty')
 
 bounty1 = Bounty.new(
-  {'name' => 'Thereza May', 'value' => '1',
+  {'name' => 'Liam Neeson', 'value' => '1000',
   'danger_level' => 'are you kidding?', 'cashed_in' => false}
 )
 
